@@ -1,0 +1,17 @@
+/*common code start*/
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0px;
+}
+.container{
+	margin: 0px auto;
+	width: 90%;
+	border: 1px solid red;
+}
+/*common code end*/
+
+/*nav code start*/
+
+/*nav code end*/
